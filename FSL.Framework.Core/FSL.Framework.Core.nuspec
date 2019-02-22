@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>FSL.Framework.Core</id>
+        <version>1.0.1</version>
+        <title>CORE do Framework FSL</title>
+        <authors>Fabio Silva Lima</authors>
+        <owners>Fabio Silva Lima</owners>
+        <licenseUrl>https://www.fabiosilvalima.com</licenseUrl>
+        <projectUrl>https://github.com/fabiosilvalima</projectUrl>
+        <iconUrl>https://www.fabiosilvalima.com</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>CORE do Framework FSL Nuget Package</description>
+        <releaseNotes>Framework Version with Dapper</releaseNotes>
+        <copyright>Fabio Silva Lima</copyright>
+        <tags>C# Framework FSL</tags>
+    </metadata>
+</package>
